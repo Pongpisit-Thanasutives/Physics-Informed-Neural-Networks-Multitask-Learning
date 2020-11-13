@@ -197,7 +197,7 @@ class FBSNN(ABC):
             previous_it = self.iteration[-1]
 
         # Optimizers
-        self.optimizer = PCGrad(optim.Adam(self.model.parameters(), lr=learning_rate))
+        self.optimizer = (optim.Adam(self.model.parameters(), lr=learning_rate))
 
         start_time = time.time()
         for it in range(previous_it, previous_it + N_Iter):

@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import time
 
 # from FBSNNs import FBSNN
-from MTL_FBSNNs_Allen100D import FBSNN
+from MTL_FBSNNs_Allen100D_uncert import FBSNN
 print('Uncert training')
 
 class AllenCahn(FBSNN):
