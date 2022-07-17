@@ -1,15 +1,15 @@
 # Physics-Informed-Neural-Networks-Multitask-Learning
 
-The concept of Multi-task Physics-informed Neural Networks is first proposed in https://arxiv.org/abs/2104.14320.
+The code implements the multi-task physics-informed neural networks firstly proposed in https://arxiv.org/abs/2104.14320.
 
 ## Citation
 ```
-@article{thanasutives2021adversarial,
-      title={Adversarial Multi-task Learning Enhanced Physics-informed Neural Networks for Solving Partial Differential Equations},
-      author={Pongpisit Thanasutives and Masayuki Numao and Ken-ichi Fukui},
-      year={2021},
-      eprint={2104.14320},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@inproceedings{thanasutives2021adversarial,
+  title={Adversarial multi-task learning enhanced physics-informed neural networks for solving partial differential equations},
+  author={Thanasutives, Pongpisit and Numao, Masayuki and Fukui, Ken-ichi},
+  booktitle={2021 International Joint Conference on Neural Networks (IJCNN)},
+  pages={1--9},
+  year={2021},
+  organization={IEEE}
 }
 ```
