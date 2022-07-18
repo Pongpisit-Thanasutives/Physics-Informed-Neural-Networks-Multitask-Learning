@@ -1,6 +1,6 @@
 # Physics-Informed-Neural-Networks-Multitask-Learning
 
-The code implements the multi-task physics-informed neural networks firstly proposed in https://arxiv.org/abs/2104.14320.
+The code implements the multi-task physics-informed neural networks first proposed in https://arxiv.org/abs/2104.14320.
 
 ## Citation
 ```
